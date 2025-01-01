@@ -44,3 +44,15 @@ Create a JSON file that defines your desired directory and file structure. Below
     "README.md",
     "pyproject.toml"
 ]
+```
+
+### 2. Run the Tool
+Run the script and follow the prompts:
+```bash
+python main.py
+```
+When prompted:
+
+- Enter the path to your JSON file (e.g., example_structure.json).
+
+- Enter the base folder name where the structure should be created (e.g., realpython-reader).
